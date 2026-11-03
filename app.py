@@ -1,4 +1,3 @@
-
 # Pesquisa de Opiniao - Empresa TudoWeb
 
 TOTAL_ENTREVISTADOS = 50
